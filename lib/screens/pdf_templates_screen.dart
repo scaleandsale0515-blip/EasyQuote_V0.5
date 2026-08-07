@@ -5,6 +5,8 @@ import 'package:path_provider/path_provider.dart';
 import 'package:pdfx/pdfx.dart' as pdfx;
 import 'package:printing/printing.dart';
 
+import 'package:pdf/pdf.dart'; // New ADDED with AI Update
+
 import '../models/quote_doc.dart';
 import '../models/line_item.dart';
 import '../models/terms_preset.dart';
